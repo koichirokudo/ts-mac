@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/koichirokudo/ts-mac/issues"
   },
-  "homepage": "https://github.com/koichirokudo/ts-mac#readme"
+  "homepage": "https://github.com/koichirokudo/ts-mac#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
