@@ -19,6 +19,7 @@
   "homepage": "https://github.com/koichirokudo/ts-mac#readme",
   "devDependencies": {
     "ts-node": "^8.6.2",
+    "ts-node-dev": "^1.1.6",
     "typescript": "^3.7.5"
   }
 }
